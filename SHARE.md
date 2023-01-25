@@ -1,1 +1,1 @@
-{% include embed.html url="[https://www.youtube.com/watch?v=P84FGrLJdJM](https://www.youtube.com/watch?v=P84FGrLJdJM)" %}
+{% include embed.html url="https://youtu.be/P84FGrLJdJM" %}
