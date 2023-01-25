@@ -27,9 +27,9 @@ where $$P(X_k)$$ is the prior probability.
 
 Conditional information entropy of $$Y$$ on $$X$$ is a weighted sum of all sub-conditional entropy of $$X_k$$.
 
-The above looks similiar to 'the law of total probability' 
+*The above looks similiar to 'the law of total probability' 
 $$\left(P(Y) = \sum_i P(X_i) \cdot P(Y|X_i) \right)$$ 
-but not necessarily the case.
+but not necessarily the case.*
 
 
 
@@ -39,8 +39,8 @@ By how much could the uncertainty be mitigated if we make decision/split on feat
 $$Gain(X, Y) = H(Y) - H(Y|X)$$
 
 $$H(Y)$$ is the impurity if no split (for tree) has been made. 
-
-$$H(Y|X)$$ is the impurity if were to make split on $$X$$. The gain is the benefit of growing tree.
+$$H(Y|X)$$ is the impurity if were to make split on 
+$$X$$. The gain is the benefit of growing tree.
 
 
 ### - Application of Entropy on Decision Tree
