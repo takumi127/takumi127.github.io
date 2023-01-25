@@ -1,7 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/600977279
-
-rand
-
 #### Gist:
 1. Information Entropy & Infomration Gain
 2. Application to deicision tree
