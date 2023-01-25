@@ -19,7 +19,7 @@ Information entropy has different ways of measure:
 
 
 ### - Conditional Information Entropy
-Uncertainty of $Y$ conditioned on certain value of $X$. For instance, feature $X$ may take $m$ values, and each has a corresponding $$H(Y|X_k) \ \ \ k \in [m]$$. conditional infomration entropy is then denoted as,
+Uncertainty of $$Y$$ conditioned on certain value of $$X$$. For instance, feature $$X$$ may take $$m$$ values, and each has a corresponding $$H(Y|X_k) \ \ \ k \in [m]$$. conditional infomration entropy is then denoted as,
 
 $$H(Y|X) = \sum_{k \in [m]}P(X_k) \cdot H(Y|X_k)$$
 
