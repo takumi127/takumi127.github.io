@@ -27,7 +27,7 @@ where $$P(X_k)$$ is the prior probability.
 
 Conditional information entropy of $$Y$$ on $$X$$ is a weighted sum of all sub-conditional entropy of $$X_k$$.
 
-*The above looks similiar to 'the law of total probability' $$\left(P(Y) = \sum_i P(X_i) \cdot P(Y|X_i) \right)$$ but not necessarily the case.*
+The above looks similiar to 'the law of total probability' $$\left(P(Y) = \sum_i P(X_i) \cdot P(Y|X_i) \right)$$ but not necessarily the case.
 
 
 
