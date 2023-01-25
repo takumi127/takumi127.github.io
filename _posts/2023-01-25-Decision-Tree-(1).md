@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KaTeX with Jekyll
+title: Decision Tree (1)
 katex: True
 ---
 
