@@ -37,7 +37,7 @@ $$ $$
 By how much could the uncertainty be mitigated if we make decision/split on feature $X$.
 $$Gain(X, Y) = H(Y) - H(Y|X)$$
 
-$$H(Y)$$ is the impurity if no split (for tree) has been made. $4H(Y|X)$4 is the impurity if were to make split on $$X$$. The gain is the benefit of growing tree.
+$$H(Y)$$ is the impurity if no split (for tree) has been made. $$H(Y|X)$$ is the impurity if were to make split on $$X$$. The gain is the benefit of growing tree.
 
 $$ $$
 
