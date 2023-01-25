@@ -1,10 +1,3 @@
----
-title:  "Decision Tree (1)"
-mathjax: true
-layout: post
----
-
-
 #### Gist:
 1. Information Entropy & Infomration Gain
 2. Application to deicision tree
