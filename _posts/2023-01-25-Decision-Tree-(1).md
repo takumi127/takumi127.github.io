@@ -25,7 +25,7 @@ Uncertainty of $Y$ conditioned on certain value of $X$. For instance, feature $X
 
 $$H(Y|X) = \sum_{k \in [m]}P(X_k) \cdot H(Y|X_k)$$
 
-where $P(X_k)$ is the prior probability.
+where $$P(X_k)$$ is the prior probability.
 
 Conditional information entropy of $$Y$$ on $$X$$ is a weighted sum of all sub-conditional entropy of $$X_k$$.
 
