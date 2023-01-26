@@ -4,4 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-{% include embed.html url="https://www.bilibili.com/video/BV1nE411Y7qi" %}
+{% include embed.html url="https://m.youtube.com/watch?v=P84FGrLJdJM" %}
